@@ -1,0 +1,10 @@
+<svg id="ic_status" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <rect id="Rectangle_23040" data-name="Rectangle 23040" width="20" height="20" fill="none"/>
+  <g id="_x30_3_x2C__status_x2C__post_x2C__loading_x2C__refresh_x2C__spinner_x2C__circle_loading" transform="translate(-0.022 -0.022)">
+    <g id="Group_27930" data-name="Group 27930" transform="translate(1 1)">
+      <g id="Group_27929" data-name="Group 27929" transform="translate(0 0)">
+        <path id="Path_38500" data-name="Path 38500" d="M10.022,1a9.022,9.022,0,1,0,9.022,9.022A9.018,9.018,0,0,0,10.022,1ZM4.7,12.474a.531.531,0,0,1-.678-.323A6.372,6.372,0,0,1,8.865,3.759.531.531,0,1,1,9.057,4.8,5.31,5.31,0,0,0,5.019,11.8.531.531,0,0,1,4.7,12.474Zm10.17,1.682a6.369,6.369,0,0,1-9.688,0,.531.531,0,0,1,.807-.689,5.308,5.308,0,0,0,8.074,0,.531.531,0,0,1,.807.689Zm1.159-2.005a.531.531,0,0,1-1-.355A5.31,5.31,0,0,0,10.988,4.8a.531.531,0,0,1,.192-1.044,6.372,6.372,0,0,1,4.846,8.393Z" transform="translate(-1 -1)" fill="#88b4fe"/>
+      </g>
+    </g>
+  </g>
+</svg>
